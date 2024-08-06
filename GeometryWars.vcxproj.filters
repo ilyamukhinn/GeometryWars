@@ -112,4 +112,8 @@
       <Filter>resources\fonts</Filter>
     </Font>
   </ItemGroup>
+  <ItemGroup>
+    <None Include=".gitignore" />
+    <None Include="README.md" />
+  </ItemGroup>
 </Project>
